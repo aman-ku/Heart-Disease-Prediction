@@ -123,7 +123,7 @@ print("Accuracy of Random Forest Classifier = ",rfc_acc/len(X_test))
 
 
 '''
-Since the best accuracy among all the classifier has been given by Support Vector Machine and K nearest negbour.
+Since the best accuracy among all the classifier has been given by Support Vector Machine and K nearest neighbour.
 So for prediction we should consider any of the above two algorithm.
 '''
 
